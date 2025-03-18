@@ -1,0 +1,5 @@
+Average dice: 0.7793
+Average iou: 0.6699
+Average precision: 0.8227
+Average recall: 0.7908
+Average f1: 0.7793
