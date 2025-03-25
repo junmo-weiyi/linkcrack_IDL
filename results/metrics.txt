@@ -1,0 +1,3 @@
+Average iou: 0.6699
+Average recall: 0.7908
+Average f1: 0.7793
